@@ -15,6 +15,7 @@ public class Test {
         System.out.println("功能1添加成功了  准备合并分支------");
         System.out.println("功能1添加成功了  准备合并分支------");
         System.out.println("AWorker 添加功能1");
+        System.out.println("BWorker 添加功能2");
 
     }
 }

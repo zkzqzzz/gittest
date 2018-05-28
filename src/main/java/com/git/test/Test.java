@@ -13,6 +13,7 @@ public class Test {
         System.out.println("我要添加一个新功能1------");
         System.out.println("功能1添加成功了------");
         System.out.println("功能1添加成功了  准备合并分支------");
+        System.out.println("功能1添加成功了  准备合并分支------");
 
     }
 }
